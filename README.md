@@ -1,8 +1,5 @@
 
 <div align="center">
-
-![new-api](/web/public/logo.png)
-
 # NTR API
 </div>
 
